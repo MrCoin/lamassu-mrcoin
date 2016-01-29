@@ -1,27 +1,27 @@
 {
-  "name": "lamassu-coinbase",
+  "name": "lamassu-mrcoin",
   "version": "1.0.4",
-  "description": "Lamassu Coinbase ticker and trader",
+  "description": "Lamassu MrCoin ticker",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lamassu/lamassu-coinbase.git"
+    "url": "https://github.com/MrCoin/lamassu-mrcoin.git"
   },
   "keywords": [
     "Lamassu",
-    "Coinbase",
+    "MrCoin",
     "Bitcoin"
   ],
   "author": "Lamassu (https://lamassu.is)",
   "license": "unlicense",
   "bugs": {
-    "url": "https://github.com/lamassu/lamassu-coinbase/issues"
+    "url": "https://github.com/MrCoin/lamassu-mrcoin/issues"
   },
   "bin": {
-    "coinbase-setup": "./setup"
+    "mrcoin-setup": "./setup"
   },
   "devDependencies": {
     "chai": "^1.10.0",
